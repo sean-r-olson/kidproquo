@@ -1,0 +1,25 @@
+.registerForm {
+    background-color: #dbd5d5;
+    width: 60%;
+    height: 250px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 2px;
+}
+
+.loginFormBackground {
+    padding-top: 50px;
+    
+}
+
+.directions {
+    text-align: center;
+    
+}
+
+.registerLinkButton {
+    align-content: center;
+}
+
+
+

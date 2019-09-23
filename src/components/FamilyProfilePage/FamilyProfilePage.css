@@ -1,0 +1,47 @@
+.kidCard {
+  margin-left: 6vh
+}
+
+.kidCardTitle {
+  padding-bottom: 2vh;
+  text-align: center;
+}
+
+.ourKidsTitle {
+  margin-left: 5.5vh;
+  margin-bottom: 2vh;
+}
+
+.editProfileBtns {
+  margin-left: 7vh;
+}
+
+.cancelKidBtn {
+  padding-top: 1vh;
+  margin-left: 1vh;
+}
+
+.kidModalBtns {
+  margin-bottom: 2vh;
+}
+
+@media only screen and (min-width: 1000px) {
+
+  .ourKidsTitle {
+    margin-top: 4vh;
+    margin-left: 60vh;
+    margin-bottom: 4vh;
+
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+
+  .familyCard {
+    min-height: 800px;
+    min-width: 400px;
+  }
+
+}
+
